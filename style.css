@@ -14,8 +14,8 @@ margin: 0px;
 letter-spacing: 0.0524vw;}
 .progress {
     height: 10px;
-    display: block;
-    /* display: none;*/
+    /* display: block; */
+    display: none;
 } 
 body {
     color: #000;
